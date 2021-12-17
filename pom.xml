@@ -42,7 +42,7 @@
 	</dependencies>
 
 	<build>	
-        <finalName>${project.name}##${project.version}</finalName>
+        <finalName>gol-pdf##${project.version}</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
