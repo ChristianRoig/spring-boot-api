@@ -1,4 +1,4 @@
-# Spring Boot API
+# Starter Spring Boot API
 Proyecto de Inicio Spring Boot para:
 
 * exportar API Rest Services.
@@ -12,12 +12,17 @@ El proyecto se puede descargar o clonar desde este repositorio Github:
 
 https://github.com/ChristianRoig/spring-boot-api
 
-## IDE-RUN
+## IDE-RUN (Eclipse)
 Elegí `Run as Java Application` en `BootApiApplication.java` (btnDer)
 
 Navegá a `localhost:8080/bootAPI` 
 
-## BUILD
+## IDE-RUN (VSCode)
+Elegí `Run` en `BootApiApplication.java` (btnDer)
+
+Navegá a `localhost:8080/bootAPI` 
+
+## BUILD (Eclipse)
 Elegí `Run as Maven Build ...` en el proyecto(btnDer) y luego `clean install` en Goals
 
 Se va a generar un archivo `bootAPI.0.0.2.war` en el directorio `target`
