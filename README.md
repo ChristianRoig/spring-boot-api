@@ -10,17 +10,17 @@ Este proyecto fue creado con https://start.spring.io/
 ## Download
 El proyecto se puede descargar o clonar desde este repositorio Github:
 
-https://github.com/ChristianRoig/spring-boot-api
+https://github.com/Siete-Ideas/starter-back-springboot
 
 ## IDE-RUN (Eclipse)
-Elegí `Run as Java Application` en `BootApiApplication.java` (btnDer)
+Elegí `Run as Java Application` en `StarterApplication.java` (btnDer)
 
-Navegá a `localhost:8080/bootAPI` 
+Navegá a `localhost:8080/starter-java` 
 
 ## IDE-RUN (VSCode)
-Elegí `Run` en `BootApiApplication.java` (btnDer)
+Elegí `Run` en `StarterApplication.java` (btnDer)
 
-Navegá a `localhost:8080/bootAPI` 
+Navegá a `localhost:8080/starter-java` 
 
 ## BUILD (Eclipse)
 Elegí `Run as Maven Build ...` en el proyecto(btnDer) y luego `clean install` en Goals
