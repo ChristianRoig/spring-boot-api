@@ -31,4 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
-/bin/
+bin/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# System Files
+.DS_Store
+Thumbs.db
